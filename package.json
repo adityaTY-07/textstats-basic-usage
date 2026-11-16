@@ -1,0 +1,13 @@
+{
+  "name": "textstats-basic-usage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A tiny project that uses @adityatyagi/textstats from npm.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@adityatyagi/textstats": "^1.0.0"
+  }
+}
